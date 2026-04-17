@@ -1,0 +1,19 @@
+/* Fixed-height styling for ReactQuill editors */
+.quill-fixed .ql-toolbar {
+  border: none !important;
+}
+
+.quill-fixed .ql-container {
+  border: none !important;
+  /* Fixed total container height */
+  min-height: 260px;
+  max-height: 260px;
+}
+
+.quill-fixed .ql-editor {
+  /* Scrolling area height inside container (toolbar is outside) */
+  min-height: 220px;
+  max-height: 220px;
+  overflow-y: auto;
+  font-size: 16px;
+}

@@ -1,0 +1,364 @@
+{
+  "siteInfo": {
+    "companyName": "Edjobster HR Consulting",
+    "consultantName": "Edjobster",
+    "email": "info@edjobster.com",
+    "phone": "+1-555-123-4567",
+    "location": "London, UK",
+    "tagline": "Global HR Expertise, Delivered in Days"
+  },
+  "header": {
+    "navigation": [
+      { "label": "About", "href": "#about" },
+      { "label": "Services", "href": "#services" },
+      { "label": "How It Works", "href": "#how-it-works" },
+      { "label": "Testimonials", "href": "#testimonials" },
+      { "label": "Contact", "href": "#contact" }
+    ],
+    "ctaButton": {
+      "text": "Get Expert HR Talent",
+      "href": "#contact"
+    }
+  },
+  "hero": {
+    "headline": "Global HR Expertise, Delivered in Days",
+    "subheadline": "10 years of corporate HR leadership. Fast, reliable talent solutions for international clients.",
+    "primaryButton": {
+      "text": "Schedule a Call",
+      "href": "#contact"
+    },
+    "secondaryButton": {
+      "text": "View My Services",
+      "href": "#services"
+    },
+    "trustIndicators": [
+      {
+        "number": "500+",
+        "label": "Successful Placements"
+      },
+      {
+        "number": "25",
+        "label": "Countries Served"
+      },
+      {
+        "number": "48hrs",
+        "label": "Average Response"
+      }
+    ]
+  },
+  "about": {
+    "title": "Why Choose Edjobster?",
+    "description": "With a decade of senior HR leadership across Fortune 500 companies, I bring deep expertise in international talent acquisition and strategic workforce planning. My approach combines rapid execution with meticulous attention to cultural fit and compliance requirements.",
+    "achievements": [
+      {
+        "number": "10+",
+        "label": "Years Experience"
+      },
+      {
+        "number": "95%",
+        "label": "Success Rate"
+      }
+    ],
+    "differentiators": [
+      {
+        "title": "Global Network",
+        "description": "Extensive connections across 25+ countries with vetted talent pools and local market expertise."
+      },
+      {
+        "title": "Rapid Delivery",
+        "description": "Average 48-hour response time with qualified candidate profiles delivered within days, not weeks."
+      },
+      {
+        "title": "Compliance Expert",
+        "description": "Deep knowledge of international employment law, visa requirements, and cultural integration best practices."
+      }
+    ]
+  },
+  "services": {
+    "title": "Services & Offerings",
+    "description": "Comprehensive HR solutions tailored for global businesses seeking rapid, reliable talent acquisition and strategic workforce development.",
+    "servicesList": [
+      {
+        "title": "Executive Search",
+        "description": "C-suite and senior leadership recruitment across global markets with cultural fit assessment."
+      },
+      {
+        "title": "Talent Acquisition",
+        "description": "End-to-end recruitment process from sourcing to onboarding for technical and professional roles."
+      },
+      {
+        "title": "HR Compliance",
+        "description": "International employment law guidance, visa processing, and regulatory compliance consulting."
+      },
+      {
+        "title": "Organizational Development",
+        "description": "Strategic workforce planning, team restructuring, and performance optimization programs."
+      },
+      {
+        "title": "Market Entry Support",
+        "description": "Local hiring strategies and HR infrastructure setup for companies expanding into new markets."
+      },
+      {
+        "title": "Interim HR Leadership",
+        "description": "Temporary executive placement and project-based HR management for transitional periods."
+      }
+    ],
+    "promotion": {
+      "headline": "Ready to Scale Your Global Team?",
+      "subheadline": "Get matched with pre-vetted talent in your target market within 48 hours.",
+      "buttonText": "Start Consultation"
+    }
+  },
+  "howItWorks": {
+    "title": "How It Works",
+    "description": "A streamlined 3-step process designed to get you qualified candidates fast, with full transparency and regular updates throughout.",
+    "steps": [
+      {
+        "title": "Discovery & Strategy",
+        "description": "30-minute consultation to understand your needs",
+        "details": "We discuss role requirements, cultural fit criteria, timeline, and compliance considerations for your target market."
+      },
+      {
+        "title": "Sourcing & Screening",
+        "description": "Leverage my global network to find top talent",
+        "details": "Active sourcing from vetted talent pools, comprehensive screening, and cultural fit assessment within 48-72 hours."
+      },
+      {
+        "title": "Present & Support",
+        "description": "Deliver qualified candidates with full support",
+        "details": "Detailed candidate profiles, interview coordination, offer negotiation, and onboarding support through completion."
+      }
+    ],
+    "cta": {
+      "title": "Ready to get started?",
+      "primaryButton": {
+        "text": "Schedule Free Consultation",
+        "href": "#contact"
+      },
+      "secondaryButton": {
+        "text": "Download Process Guide",
+        "href": "#"
+      }
+    }
+  },
+  "testimonials": {
+    "title": "What Global Leaders Say",
+    "testimonialsList": [
+      {
+        "name": "Michael Chen",
+        "title": "VP of Engineering",
+        "company": "TechGlobal Inc.",
+        "country": "Singapore",
+        "rating": 5,
+        "quote": "Syed delivered 3 senior engineers for our APAC expansion in just 5 days. Exceptional quality and cultural fit.",
+        "result": "3 hires in 5 days"
+      },
+      {
+        "name": "Sarah Johnson",
+        "title": "Chief Operating Officer",
+        "company": "FinanceForward Ltd",
+        "country": "United Kingdom",
+        "rating": 5,
+        "quote": "The compliance expertise saved us months of regulatory headaches. Professional, fast, and thoroughly reliable.",
+        "result": "100% compliance success"
+      },
+      {
+        "name": "Carlos Rodriguez",
+        "title": "Head of Operations",
+        "company": "LogiCorp International",
+        "country": "Mexico",
+        "rating": 5,
+        "quote": "Outstanding talent acquisition for our Latin American operations. The cultural fit assessment was spot-on.",
+        "result": "95% retention rate"
+      },
+      {
+        "name": "Emma Thompson",
+        "title": "HR Director",
+        "company": "InnovateAI Solutions",
+        "country": "Canada",
+        "rating": 5,
+        "quote": "Syed's global network is impressive. Found us a VP of Product in Toronto within 72 hours of our call.",
+        "result": "VP hired in 72hrs"
+      }
+    ],
+    "statistics": [
+      {
+        "number": "98%",
+        "label": "Client Satisfaction"
+      },
+      {
+        "number": "500+",
+        "label": "Successful Placements"
+      },
+      {
+        "number": "25+",
+        "label": "Countries Served"
+      },
+      {
+        "number": "48hrs",
+        "label": "Average Response"
+      }
+    ]
+  },
+  "clients": {
+    "title": "Trusted by Global Leaders",
+    "description": "From Fortune 500 corporations to fast-growing startups, I've helped organizations across industries build exceptional teams worldwide.",
+    "clientsList": [
+      {
+        "name": "TechGlobal Inc.",
+        "industry": "Technology"
+      },
+      {
+        "name": "FinanceForward Ltd",
+        "industry": "Financial Services"
+      },
+      {
+        "name": "LogiCorp International",
+        "industry": "Logistics & Supply Chain"
+      },
+      {
+        "name": "InnovateAI Solutions",
+        "industry": "Artificial Intelligence"
+      },
+      {
+        "name": "MedTech Dynamics",
+        "industry": "Healthcare Technology"
+      },
+      {
+        "name": "EcoEnergy Partners",
+        "industry": "Renewable Energy"
+      },
+      {
+        "name": "Digital Marketing Pro",
+        "industry": "Marketing Technology"
+      },
+      {
+        "name": "Global Consulting Group",
+        "industry": "Management Consulting"
+      }
+    ],
+    "successMetrics": [
+      {
+        "number": "12+",
+        "label": "Industries Served"
+      },
+      {
+        "number": "45+",
+        "label": "Fortune 500 Clients"
+      },
+      {
+        "number": "89%",
+        "label": "Repeat Client Rate"
+      }
+    ],
+    "successStories": [
+      {
+        "title": "APAC Expansion Success",
+        "description": "Helped a US fintech scale their Singapore operations from 0 to 50 employees in 6 months."
+      },
+      {
+        "title": "Executive Leadership Placement",
+        "description": "Placed C-suite executives for 3 different companies entering the European market."
+      },
+      {
+        "title": "Compliance & Risk Management",
+        "description": "Navigated complex visa requirements for 100+ international hires across 15 countries."
+      }
+    ]
+  },
+  "contact": {
+    "title": "Ready to Scale Your Global Team?",
+    "description": "Get in touch today and let's discuss how I can help you build an exceptional international workforce quickly and compliantly.",
+    "form": {
+      "title": "Send me a message",
+      "fields": [
+        {
+          "name": "name",
+          "label": "Full Name",
+          "placeholder": "Enter your full name",
+          "required": true
+        },
+        {
+          "name": "email",
+          "label": "Email Address",
+          "placeholder": "Enter your email",
+          "required": true
+        },
+        {
+          "name": "company",
+          "label": "Company",
+          "placeholder": "Enter your company name",
+          "required": true
+        },
+        {
+          "name": "message",
+          "label": "Message",
+          "placeholder": "Tell me about your hiring needs...",
+          "required": true
+        }
+      ],
+      "submitButton": "Send Message"
+    },
+    "contactInfo": [
+      {
+        "label": "Email",
+        "value": "info@edjobster.com",
+        "href": "mailto:info@edjobster.com"
+      },
+      {
+        "label": "Phone",
+        "value": "+1-555-123-4567",
+        "href": "tel:+1-555-123-4567"
+      },
+      {
+        "label": "Location",
+        "value": "London, UK (Global Coverage)"
+      },
+      {
+        "label": "Response Time",
+        "value": "Within 24 hours"
+      }
+    ],
+    "urgentContact": {
+      "title": "Need urgent assistance?",
+      "description": "For time-sensitive hiring needs, call me directly:",
+      "phone": "+1-555-123-4567"
+    }
+  },
+  "footer": {
+    "companyDescription": "Global HR expertise delivered in days. International talent solutions and strategic HR consulting.",
+    "quickLinks": [
+      { "label": "About", "href": "#about" },
+      { "label": "Services", "href": "#services" },
+      { "label": "How It Works", "href": "#how-it-works" },
+      { "label": "Testimonials", "href": "#testimonials" }
+    ],
+    "contactLinks": [
+      { "label": "Contact", "href": "#contact" },
+      { "label": "Schedule Call", "href": "#contact" },
+      { "label": "Emergency Support", "href": "tel:+1-555-123-4567" }
+    ],
+    "socialLinks": [
+      {
+        "platform": "LinkedIn",
+        "href": "#",
+        "label": "LinkedIn"
+      },
+      {
+        "platform": "Twitter",
+        "href": "#",
+        "label": "Twitter"
+      },
+      {
+        "platform": "Email",
+        "href": "mailto:info@edjobster.com",
+        "label": "Email"
+      }
+    ],
+    "legalLinks": [
+      { "label": "Privacy Policy", "href": "#" },
+      { "label": "Terms of Service", "href": "#" }
+    ],
+    "copyright": "© 2024 Edjobster HR Consulting. All rights reserved."
+  }
+}
