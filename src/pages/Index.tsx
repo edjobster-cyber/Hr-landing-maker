@@ -11,13 +11,14 @@ import Aftab_Pathan from "@/assets/Testimonials/Aftab Pathan.jpg";
 import Vinoth_Kannan from "@/assets/Testimonials/Vinoth Kannan.jpg"
 import saket_kumar from "@/assets/Testimonials/saket.jpg"
 import Yannick_Soth from "@/assets/Testimonials/yannick.jpg"
+import Pawan_Chavan from "@/assets/Testimonials/Pawan Chavan.jpg"
 import ContactFormHome from "@/components/ContactFormHome";
 
 const Index = () => {
   useEffect(() => {
     // Set up SEO meta tags
     document.title = "Edjobster - Global HR Consultant | International HR Staffing Expert";
-    
+
     // Meta description
     const metaDescription = document.querySelector('meta[name="description"]');
     if (metaDescription) {
@@ -148,6 +149,16 @@ const Index = () => {
       quote: "Thanks to Mr. Syed Hamid Hasan and Edjobster, I received a great opportunity with Garware High Tech Window Films. He guided me through interviews with top companies and supported me throughout the onboarding process. I was looking for a better offer and work culture, and Edjobster delivered. Highly recommended for professionals seeking career growth.",
       result: "Guided through interviews; smooth onboarding; career growth delivered",
       image: Vinoth_Kannan
+    },
+    {
+      name: "Pawan Chavan",
+      title: "Sr Manager Sales",
+      company: "Garware Hightech films",
+      country: "🇮🇳",
+      rating: 5,
+      quote: "GI am very happy with the kind of reaponse and support shown by Ms Shilpi tyagi throught my journey from Shortlisting the candidature, then scheduling the interviews with panel then post interview fups, Salary negotiations till the joining day with Garware films. She is very good resourse. Her efforts are highly appreciated.",
+      result: "Good response and support from Ms Shilpi tyagi",
+      image: Pawan_Chavan
     }
   ];
 
@@ -159,7 +170,7 @@ const Index = () => {
         <About />
         <Services />
         <HowItWorks />
-        <Testimonials testimonials={testimonials}/>
+        <Testimonials testimonials={testimonials} />
         {/* <Clients /> */}
         <ContactFormHome platform="Home Page" />
       </main>

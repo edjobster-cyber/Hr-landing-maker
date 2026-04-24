@@ -30,7 +30,7 @@ const Header = () => {
       { href: "/products/career-portal", label: "Career Portal", disabled: true },
       { href: "/products/resume-builder", label: "Resume Builder", disabled: true },
       { href: "/products/teacher-ai", label: "Teacher AI", disabled: true },
-      { href: "/products/ai-docs-hr", label: "AI Docs HR"},
+      { href: "https://ai.edjobster.com/", label: "AI Docs HR"},
       // { href: "/products/jd-generator", label: "JD Generator" },
     ],
     // resources: [

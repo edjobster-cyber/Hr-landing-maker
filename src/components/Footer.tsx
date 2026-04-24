@@ -9,7 +9,7 @@ const Footer = () => {
   const isAtsRoute = pathname === "/ats";
   const navigationLinks = [
     { label: "Our Solutions", sublabel: [{ label: "Education Institutions", href: "/solutions/education-institutions" }, { label: "Manufacturing", href: "/solutions/manufacturing" }, { label: "Technology", href: "/solutions/technology" }] },
-    { label: "Our Products", sublabel: [{ lable: "ATS", href: "/products/ats" }, { lable: "Career Portal", href: "/products/career-portal" }, { lable: "Resume Builder", href: "/products/resume-builder" }, { lable: "Teacher AI", href: "/products/teacher-ai" },{ lable: "AI Docs HR", href: "/products/ai-docs-hr" }] },
+    { label: "Our Products", sublabel: [{ lable: "ATS", href: "/products/ats" }, { lable: "Career Portal", href: "/products/career-portal" }, { lable: "Resume Builder", href: "/products/resume-builder" }, { lable: "Teacher AI", href: "/products/teacher-ai" },{ lable: "AI Docs HR", href: "https://ai.edjobster.com/" }] },
     { label: "Quick Links", sublable: [{ lable: "About", href: "/company/about-us" }, { lable: "Contact", href: "/company/contact-us" }, { lable: "FAQ", href: "/faq" }] },
     // { label: "Contact", href: "/company/contact-us" }
   ];
