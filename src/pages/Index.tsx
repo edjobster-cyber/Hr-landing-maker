@@ -12,6 +12,7 @@ import Vinoth_Kannan from "@/assets/Testimonials/Vinoth Kannan.jpg"
 import saket_kumar from "@/assets/Testimonials/saket.jpg"
 import Yannick_Soth from "@/assets/Testimonials/yannick.jpg"
 import Pawan_Chavan from "@/assets/Testimonials/Pawan Chavan.jpg"
+import Sandeep_Kumar from "@/assets/Testimonials/Sandeep Kumar.jpg"
 import ContactFormHome from "@/components/ContactFormHome";
 
 const Index = () => {
@@ -159,7 +160,27 @@ const Index = () => {
       quote: "GI am very happy with the kind of reaponse and support shown by Ms Shilpi tyagi throught my journey from Shortlisting the candidature, then scheduling the interviews with panel then post interview fups, Salary negotiations till the joining day with Garware films. She is very good resourse. Her efforts are highly appreciated.",
       result: "Good response and support from Ms Shilpi tyagi",
       image: Pawan_Chavan
-    }
+    },
+    {
+      name: "Sandeep Kumar",
+      title: "ROW executive",
+      company: "Dajina Infra LLP",
+      country: "Barmer, Rajasthan, India",
+      rating: 5,
+      quote: "Finding the best person for the job and placing them at the right location to work independently is rewarding. Overall, scheduling interviews and placements has been a good experience.",
+      result: "Good experience with scheduling and placements",
+      image: Sandeep_Kumar
+    },
+    {
+      name: "Md. Mohseen Qureshi",
+      title: "Senior Quality Officer",
+      company: "Dajina Infra LLP",
+      country: "Chausala, Beed, Maharashtra, India.",
+      rating: 5,
+      quote: "Edjobster Pvt. Ltd. played a key role in helping me secure my current position as Senior Quality Officer at Dajina Infra LLP, with a competitive salary package. I truly appreciate the efficiency and professionalism of the team.",
+      result: "Good experience with scheduling and placements",
+      image: null
+    },
   ];
 
   return (
